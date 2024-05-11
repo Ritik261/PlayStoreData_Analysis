@@ -2,7 +2,7 @@
 
 Here in this Data Analysis Project dataset used and technologies are :
 ## DataSet:
-
+https://github.com/Ritik261/PlayStoreData_Analysis/blob/main/googleplaystore.csv
 ## Technology: 
 Pyspark, SQL
 
